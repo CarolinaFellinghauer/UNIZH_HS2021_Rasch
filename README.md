@@ -1,8 +1,8 @@
 
 
-The Github link : https://github.com/CarolinaFellinghauer/UNIZH_HS2020_Rasch/ contains materials for a Rasch course in R. 
+The Github link : https://github.com/CarolinaFellinghauer/UNIZH_HS2021_Rasch/ contains materials for a Rasch course in R. 
 
-Recommended litterature, Power point presentation shown and HTML Workbooks used in the course are also found here - as well as in the University OLAT.
+Recommended litterature, Power point presentation and HTML Workbooks are found here.
 
 
 To open the course materials:
